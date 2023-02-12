@@ -41,15 +41,15 @@ ___
 ## Questions from Chapter 1
 
 1. What was the most interesting solution you implemented during your last project?
+* Iitem 1
+* Item 2
+* Item 3
+* Item 4
+```
+Answer of question one
+```
 1. What the latest programming book you've read.
-1. How big is/was your team?
-1. Have you ever worked in [Agile, Scrum or Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban) environments?
-1. Which developers do you know in the Front End commu8.nity?
-1. Are you a team player?
-1. What makes you a good developer?
-1. What next skill do you want to improve?
-1. What values can you bring to a new team?
-1. What is the difference between imperative and declarative programming in JS? - [@blog](https://www.redotheweb.com/2015/09/18/declarative-imperative-js.html)
+
 
 ## Questions from Chapter 2
 
@@ -95,4 +95,3 @@ ___
 
 ## Questions from Chapter 23
 
-## Questions from Chapter 24
