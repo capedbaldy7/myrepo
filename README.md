@@ -6,7 +6,7 @@
 The goal is to give a candidate the possibility to test his/her knowledge before the exam.
 The Questions are Chapter wise.
 
-**Rock your interview! :rocket:**
+**Rock your Exam! :rocket:**
 ___
 
 
@@ -40,3 +40,59 @@ ___
 
 ## Questions from Chapter 1
 
+1. What was the most interesting solution you implemented during your last project?
+1. What the latest programming book you've read.
+1. How big is/was your team?
+1. Have you ever worked in [Agile, Scrum or Kanban](https://www.smartsheet.com/agile-vs-scrum-vs-waterfall-vs-kanban) environments?
+1. Which developers do you know in the Front End commu8.nity?
+1. Are you a team player?
+1. What makes you a good developer?
+1. What next skill do you want to improve?
+1. What values can you bring to a new team?
+1. What is the difference between imperative and declarative programming in JS? - [@blog](https://www.redotheweb.com/2015/09/18/declarative-imperative-js.html)
+
+## Questions from Chapter 2
+
+## Questions from Chapter 3
+
+## Questions from Chapter 4
+
+## Questions from Chapter 5
+
+## Questions from Chapter 6
+
+## Questions from Chapter 7
+
+## Questions from Chapter 8
+
+## Questions from Chapter 9
+
+## Questions from Chapter 10
+
+## Questions from Chapter 11
+
+## Questions from Chapter 12
+
+## Questions from Chapter 13
+
+## Questions from Chapter 14
+
+## Questions from Chapter 15
+
+## Questions from Chapter 16
+
+## Questions from Chapter 17
+
+## Questions from Chapter 18
+
+## Questions from Chapter 19
+
+## Questions from Chapter 20
+
+## Questions from Chapter 21
+
+## Questions from Chapter 22
+
+## Questions from Chapter 23
+
+## Questions from Chapter 24
